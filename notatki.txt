@@ -7,3 +7,5 @@ na test
 
 
 na 4
+
+celowy blad
