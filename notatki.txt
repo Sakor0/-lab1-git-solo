@@ -4,3 +4,6 @@ notatki do testu
 dodana notka
 
 na test
+
+
+na 4
