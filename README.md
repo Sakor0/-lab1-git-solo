@@ -8,6 +8,9 @@ zmiana statusu 2
 zmiana na 3 status
 
 
+zmiany git->local
+
+
  ## Autor 
  Artur 21551 
 
