@@ -1,3 +1,6 @@
+# Projekt
+Alfa 
+
 
 # Lab1 git solo
 
