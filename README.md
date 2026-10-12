@@ -1,4 +1,4 @@
-# git beta
+# Projekt alfa z betą
 
 
 # Lab1 git solo
