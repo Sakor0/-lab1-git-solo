@@ -12,3 +12,7 @@ celowy blad
 
 # zmiany do guita
 test online
+
+
+# zmiana gitowa
+zmiana z githuba
