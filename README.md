@@ -8,3 +8,7 @@ zmiana na 3 status
 
  ## Autor 
  Artur 21551 
+
+ ##Stopka
+Fullstack
+
